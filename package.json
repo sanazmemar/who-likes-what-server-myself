@@ -1,0 +1,20 @@
+{
+  "name": "who-likes-what-server-myself",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanazmemar/who-likes-what-server-myself.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanazmemar/who-likes-what-server-myself/issues"
+  },
+  "homepage": "https://github.com/sanazmemar/who-likes-what-server-myself#readme"
+}
