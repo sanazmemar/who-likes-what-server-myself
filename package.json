@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/sanazmemar/who-likes-what-server-myself#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "winston": "^2.4.0"
   }
 }
