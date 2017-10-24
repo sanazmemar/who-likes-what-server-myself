@@ -1,7 +1,12 @@
-var express = require('express');
-var app = express();
+let express = require('express');
+let logger = require('./services/logger');
+
+let app = express();
+
+
 
 app.get('/', (request, response) => {
+  logger.log('new access to the api root');
   response.send('Welcome to the API');
 });
 
