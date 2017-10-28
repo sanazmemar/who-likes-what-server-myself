@@ -1,0 +1,74 @@
+[
+  {
+    "userid": "1",
+    "email": "sofia.mccartney@example.com",
+    "username": "sofia.mccartney",
+    "password": "Ikiru.3698",
+    "bio": "Hardcore coffee nerd and twitter junkie. Proud gamer.",
+    "first_name": "Sofia",
+    "last_name": "McCartney",
+    "picture": "/data/avatars/sofia.mccartney.jpg",
+    "favoriteMovies": [
+      "The Shawshank Redemption",
+      "The Godfather",
+      "The Dark Knight",
+      "Pulp Fiction",
+      "Schindler's List",
+      "12 Angry Men"
+    ]
+  },
+  {
+    "userid": "2",
+    "email": "anthony.harrison@fakemail.com",
+    "username": "anthony.harrison",
+    "password": "Doctors+.2547",
+    "bio": "I like to focus more on people than technology. I have a passion for teaching.",
+    "first_name": "Anthony",
+    "last_name": "Harrison",
+    "picture": "/data/avatars/anthony.harrison.jpg",
+    "favoriteMovies": [
+      "The Green Mile",
+      "The Godfather",
+      "The Good, the Bad and the Ugly",
+      "Inception",
+      "Schindler's List",
+      "Fight Club"
+    ]
+  },
+  {
+    "userid": "3",
+    "email": "diana.allen@test.com",
+    "username": "diana.allen",
+    "password": "Chess+.2547",
+    "bio": "Born and raised in Sydney. I have a thing for simplicity.",
+    "first_name": "Diana",
+    "last_name": "Allen",
+    "picture": "/data/avatars/diana.allen.jpg",
+    "favoriteMovies": [
+      "The Shawshank Redemption",
+      "Interstellar",
+      "Se7en",
+      "The Silence of the Lambs",
+      "Schindler's List",
+      "The Usual Suspects"
+    ]
+  },
+  {
+    "userid": "4",
+    "email": "leonardo.bennett@test.com",
+    "username": "leonardo.bennett",
+    "password": "Baseball*5428",
+    "bio": "I like turtles, have a curious soul and I'm a good listener.",
+    "first_name": "Leonardo",
+    "last_name": "Bennett",
+    "picture": "/data/avatars/leonardo.bennett.jpg",
+    "favoriteMovies": [
+      "The Departed",
+      "Memento",
+      "Modern Times",
+      "WALL·E",
+      "Dunkirk",
+      "Inglourious Basterds"
+    ]
+  }
+]
